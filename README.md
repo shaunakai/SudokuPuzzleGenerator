@@ -14,4 +14,4 @@ Summary of how the Sudoku board was generated: The Sudoku board was generated us
 
 Files included in the project:
 Sudoku.java (Java File)
-Shaunak Thamke - Sudoku Design Document.pdf (Design Document)
+Shaunak Thamke - Sudoku Design Document.pdf (Design Document pdf)
